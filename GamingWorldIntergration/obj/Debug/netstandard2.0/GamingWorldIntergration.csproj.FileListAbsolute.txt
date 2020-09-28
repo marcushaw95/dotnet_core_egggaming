@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Doops\Project\CE-API\GamingWorldIntergration\bin\Debug\netstandard2.0\GamingWorldIntergration.deps.json
+C:\Users\User\Documents\Doops\Project\CE-API\GamingWorldIntergration\bin\Debug\netstandard2.0\GamingWorldIntergration.dll
+C:\Users\User\Documents\Doops\Project\CE-API\GamingWorldIntergration\bin\Debug\netstandard2.0\GamingWorldIntergration.pdb
+C:\Users\User\Documents\Doops\Project\CE-API\GamingWorldIntergration\obj\Debug\netstandard2.0\GamingWorldIntergration.csprojAssemblyReference.cache
+C:\Users\User\Documents\Doops\Project\CE-API\GamingWorldIntergration\obj\Debug\netstandard2.0\GamingWorldIntergration.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Doops\Project\CE-API\GamingWorldIntergration\obj\Debug\netstandard2.0\GamingWorldIntergration.AssemblyInfo.cs
+C:\Users\User\Documents\Doops\Project\CE-API\GamingWorldIntergration\obj\Debug\netstandard2.0\GamingWorldIntergration.dll
+C:\Users\User\Documents\Doops\Project\CE-API\GamingWorldIntergration\obj\Debug\netstandard2.0\GamingWorldIntergration.pdb

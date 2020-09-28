@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\bin\Debug\netstandard2.0\XE88Intergration.dll.config
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\bin\Debug\netstandard2.0\XE88Intergration.deps.json
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\bin\Debug\netstandard2.0\XE88Intergration.dll
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\bin\Debug\netstandard2.0\XE88Intergration.pdb
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\obj\Debug\netstandard2.0\XE88Intergration.csprojAssemblyReference.cache
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\obj\Debug\netstandard2.0\XE88Intergration.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\obj\Debug\netstandard2.0\XE88Intergration.AssemblyInfo.cs
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\obj\Debug\netstandard2.0\XE88Intergration.dll
+C:\Users\User\Documents\Doops\Project\CE-API\XE88Intergartion\obj\Debug\netstandard2.0\XE88Intergration.pdb

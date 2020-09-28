@@ -1,0 +1,437 @@
+[
+  {
+    "Code": 1000,
+    "MessageEN": "UserName or password is incorrect. Please re-enter.",
+    "MessageCN": "账号或密码错误，请重新输入。"
+  },
+  {
+    "Code": 1001,
+    "MessageEN": "We believe that your account may have been compromised by third party. We've disabled your account to prevent others from accessing your account. To active back your account please contact our adminstrator. ",
+    "MessageCN": "我们认为您的帐户可能已被第三方盗用。我们已禁用您的帐户，以防止其他人访问您的帐户。要激活您的帐户，请联系我们的管理员"
+  },
+  {
+    "Code": 1002,
+    "MessageEN": "Your account has been locked, you've exceeded the number of login attempts error. Please wait {0} minutes and try again later.",
+    "MessageCN": "您的帐户已被锁定，您超出了尝试登录次数的错误。请等待{0}分钟，然后请重新再试一次。"
+  },
+  {
+    "Code": 1003,
+    "MessageEN": "The following phone number has been used. Please try input a different phone number.",
+    "MessageCN": "该手机号已被使用，请输入另外一个。"
+  },
+  {
+    "Code": 1004,
+    "MessageEN": "Failed to validate your refresh token. Please Login again to authorize your account.",
+    "MessageCN": "无法验证您的令牌。请再次登录以授权您的帐户。"
+  },
+  {
+    "Code": 1005,
+    "MessageEN": "The following phone number are not bind with any account. Please re-enter.",
+    "MessageCN": "该手机号未绑定任何帐户，请重新输入。"
+  },
+  {
+    "Code": 1006,
+    "MessageEN": "Server busy. Please try again later.",
+    "MessageCN": "服务器繁忙。请稍后再试。"
+  },
+
+  {
+    "Code": 1007,
+    "MessageEN": "You have exceeded the number of allowed attempts. Please try again later.",
+    "MessageCN": "您已超过允许的尝试次数。请稍后再试。"
+  },
+
+  {
+    "Code": 1008,
+    "MessageEN": "Invalid OTP code, Please input again.",
+    "MessageCN": "您所输入的OTP不正确，请再次输。"
+  },
+  {
+    "Code": 1009,
+    "MessageEN": "Reset Password Failed, An Internal Error Occurred.",
+    "MessageCN": "重置密码失败，发生了内部错误。"
+  },
+  {
+    "Code": 1010,
+    "MessageEN": "Exception Error: Cannot proceed to this steps.",
+    "MessageCN": "异常错误：无法继续执行此步骤"
+  },
+  {
+    "Code": 1011,
+    "MessageEN": "The following UserName has been used. Please try input a different UserName.",
+    "MessageCN": "使用了以下用户名。请尝试输入其他用户名。"
+  },
+  {
+    "Code": 1012,
+    "MessageEN": "The following Email has been used. Please try input a different Email.",
+    "MessageCN": "已使用以下电子邮件。请尝试输入其他电子邮件。"
+  },
+  {
+    "Code": 1013,
+    "MessageEN": "Existing Information detected: {0}, Please try input different  information.",
+    "MessageCN": "检测到的现有信息：{0},请尝试输入其他资料。"
+  },
+
+  {
+    "Code": 1014,
+    "MessageEN": "Incorrect Current Password. Please try input it again.",
+    "MessageCN": "当前密码错误。请尝试再次输入。"
+  },
+  {
+    "Code": 1015,
+    "MessageEN": "Your account is not created in this country. Please login to your created account country",
+    "MessageCN": "您的帐户不是在该国家/地区创建的。请登录到您创建的帐户国家。"
+  },
+  {
+    "Code": 1016,
+    "MessageEN": "An Internal Error Occurred. Bank Details that you have provided are not correct.",
+    "MessageCN": "发生了内部错误。您提供的银行详细信息不正确。"
+  },
+  {
+    "Code": 1017,
+    "MessageEN": "An Internal Error Occurred. This withdrawal cannot be found.",
+    "MessageCN": "发生了内部错误。找不到此提款。"
+  },
+  {
+    "Code": 1018,
+    "MessageEN": "An Internal Error Occurred. This banner cannot be found.",
+    "MessageCN": "发生了内部错误。找不到此横幅。"
+  },
+  {
+    "Code": 1019,
+    "MessageEN": "An Internal Error Occurred. This announcement cannot be found.",
+    "MessageCN": "发生了内部错误。找不到此公告。"
+  },
+  {
+    "Code": 1020,
+    "MessageEN": "An Error Occurred. The loginid you provide doesn't exist.",
+    "MessageCN": "发生错误。您提供的登录ID不存在。"
+  },
+  {
+    "Code": 1021,
+    "MessageEN": "An Internal Error Occurred. This bank could not be found.",
+    "MessageCN": "发生了内部错误。找不到该银行的详细信息。"
+  },
+
+  {
+    "Code": 1022,
+    "MessageEN": "An Internal Error Occurred. This user wallet could not be found.",
+    "MessageCN": "发生了内部错误。找不到该用户钱包的详细信息。"
+  },
+
+  {
+    "Code": 1023,
+    "MessageEN": "An Internal Error Occurred. This admin bank could not be found.",
+    "MessageCN": "发生了内部错误。找不到该管理员银行的详细信息。"
+  },
+
+  {
+    "Code": 1024,
+    "MessageEN": "Insufficient cash balance.",
+    "MessageCN": "现金余额不足，无法转帐。"
+  },
+  {
+    "Code": 1025,
+    "MessageEN": "Amount cannot be negative or zero.",
+    "MessageCN": "金额不能为负或零。"
+  },
+
+  {
+    "Code": 1026,
+    "MessageEN": "Insufficient cash balance to make widthrawal.",
+    "MessageCN": "钱包现金余额不足，无法进行提款。"
+  },
+
+  {
+    "Code": 1027,
+    "MessageEN": "An Internal Error Occured. Game Toke cannot retrieve.",
+    "MessageCN": "发生内部错误。游戏代币无法检索。"
+  },
+
+  {
+    "Code": 1028,
+    "MessageEN": "An Internal Error Occured. This Game is under maintainance, please try again later. If this still presist please contact our administrator. ",
+    "MessageCN": "发生内部错误。该游戏正在维护中，请稍后再试。如果仍然存在，请联系我们的管理员。"
+  },
+  {
+    "Code": 1029,
+    "MessageEN": "Player Balance Not found.",
+    "MessageCN": "找不到玩家余额。"
+  },
+
+  {
+    "Code": 1030,
+    "MessageEN": "Game Not found.",
+    "MessageCN": "找不到游戏。"
+  },
+  {
+    "Code": 1031,
+    "MessageEN": "Targeted Game already in Preferable Mode.",
+    "MessageCN": "目标游戏已处于首选模式。"
+  },
+  {
+    "Code": 1032,
+    "MessageEN": "Upline Referral Code Not Found.",
+    "MessageCN": "找不到上线推荐代码。"
+  },
+  {
+    "Code": 1033,
+    "MessageEN": "Payment Gateway Transaction Failed",
+    "MessageCN": "支付网关交易失败。"
+  },
+  {
+    "Code": 1034,
+    "MessageEN": "Exchange Rate Not Found.",
+    "MessageCN": "找不到汇率。"
+  },
+  {
+    "Code": 1035,
+    "MessageEN": "Exchange Rate with this Base and Currency Exist.",
+    "MessageCN": "已具有此基准和货币的汇率。"
+  },
+  {
+    "Code": 1036,
+    "MessageEN": "Setting Not Found.",
+    "MessageCN": "设置未找到。"
+  },
+  {
+    "Code": 1037,
+    "MessageEN": "Get Tickets Failed.",
+    "MessageCN": "失败获得门票。"
+  },
+
+  {
+    "Code": 1038,
+    "MessageEN": "Need To Clear TurnOver Amount",
+    "MessageCN": "需要清除周转金额。"
+  },
+  {
+    "Code": 1039,
+    "MessageEN": "Not Allow Transfer Credit To Different Currency User",
+    "MessageCN": "不允许转移金额到其他货币用户。"
+  },
+  {
+    "Code": 1040,
+    "MessageEN": "Receiver Account Not Found.",
+    "MessageCN": "找不到接收者帐户。"
+  },
+
+
+
+
+
+
+
+  {
+    "Code": 2000,
+    "MessageEN": "Your session still valid you can still proceed to retrieve your access token.",
+    "MessageCN": "您的会期仍然有效，您仍然可以继续获取令牌"
+  },
+  {
+    "Code": 2001,
+    "MessageEN": "Your password has been update successfully.",
+    "MessageCN": "您的密码已成功更新。"
+  },
+  {
+    "Code": 2002,
+    "MessageEN": "Your account has been successfully created.",
+    "MessageCN": "恭喜您的帐户已成功注册。"
+  },
+  {
+    "Code": 2003,
+    "MessageEN": "Profile updated.",
+    "MessageCN": "个人资料已更新。"
+  },
+  {
+    "Code": 2004,
+    "MessageEN": "Welcome back, authorize granted.",
+    "MessageCN": "欢迎回来,登录成功。"
+  },
+  {
+    "Code": 2005,
+    "MessageEN": "Topup Request Accepted.",
+    "MessageCN": "充值请求已被接受。"
+  },
+  {
+    "Code": 2006,
+    "MessageEN": "Withdrawal Request Accepted.",
+    "MessageCN": "提款请求已被接受。"
+  },
+  {
+    "Code": 2007,
+    "MessageEN": "Withdrawal has been Approved.",
+    "MessageCN": "提款成功批准。"
+  },
+  {
+    "Code": 2008,
+    "MessageEN": "Withdrawal has been Rejected.",
+    "MessageCN": "提款成功拒绝。"
+  },
+  {
+    "Code": 2009,
+    "MessageEN": "New annoucement created successfully.",
+    "MessageCN": "新宣告创建成功。"
+  },
+  {
+    "Code": 2010,
+    "MessageEN": "Annoucement updated successfully.",
+    "MessageCN": "公告已成功更新。"
+  },
+  {
+    "Code": 2011,
+    "MessageEN": "New banner created successfully.",
+    "MessageCN": "新横幅创建成功。"
+  },
+  {
+    "Code": 2012,
+    "MessageEN": "Banner updated successfully.",
+    "MessageCN": "横幅已成功更新。"
+  },
+  {
+    "Code": 2013,
+    "MessageEN": "Topup has been Approved.",
+    "MessageCN": "充值成功批准。"
+  },
+  {
+    "Code": 2014,
+    "MessageEN": "Topup has been Rejected.",
+    "MessageCN": "充值成功拒绝。"
+  },
+  {
+    "Code": 2015,
+    "MessageEN": "New bank details added successfully.",
+    "MessageCN": "新的银行详细信息已成功添加。"
+  },
+  {
+    "Code": 2016,
+    "MessageEN": "Bank details upated successfully.",
+    "MessageCN": "银行详细信息成功更新。"
+  },
+  {
+    "Code": 2017,
+    "MessageEN": "New bank details added successfully.",
+    "MessageCN": "新的银行详细信息已成功添加。"
+  },
+  {
+    "Code": 2018,
+    "MessageEN": "Bank details upated successfully.",
+    "MessageCN": "银行详细信息成功更新。"
+  },
+  {
+    "Code": 2019,
+    "MessageEN": "Successfully transfer credit into game account",
+    "MessageCN": "成功将现金转入游戏帐户。"
+  },
+  {
+    "Code": 2020,
+    "MessageEN": "Successfully withdraw credit from game account",
+    "MessageCN": "从游戏帐户成功提取积分。"
+  },
+  {
+    "Code": 2021,
+    "MessageEN": "Successfully inactive this member",
+    "MessageCN": "成功禁用该成员。"
+  },
+  {
+    "Code": 2022,
+    "MessageEN": "Successfully active back this member",
+    "MessageCN": "成功活跃了该成员。"
+  },
+  {
+    "Code": 2023,
+    "MessageEN": "You have changed this member password successfully.",
+    "MessageCN": "您已成功更改此会员密码。"
+  },
+  {
+    "Code": 2024,
+    "MessageEN": "Game authorized success.",
+    "MessageCN": "游戏授权成功。"
+  },
+  {
+    "Code": 2025,
+    "MessageEN": "Game Maintenance Mode Change Success.",
+    "MessageCN": "游戏维护模式变更成功。"
+  },
+  {
+    "Code": 2026,
+    "MessageEN": "Edit Cash Wallet Successfully.",
+    "MessageCN": "成功编辑现金钱包。"
+  },
+  {
+    "Code": 2027,
+    "MessageEN": "Payment Gateway Request Success.",
+    "MessageCN": "付款网关请求成功。"
+  },
+  {
+    "Code": 2028,
+    "MessageEN": "Payment Gateway Transaction Success.",
+    "MessageCN": "付款网关交易成功。"
+  },
+
+
+  {
+    "Code": 2029,
+    "MessageEN": "Exchange Rate added successfully.",
+    "MessageCN": "汇率已成功添加。"
+  },
+  {
+    "Code": 2030,
+    "MessageEN": "Exchange Rate details updated successfully.",
+    "MessageCN": "汇率详细信息已成功更新。"
+  },
+  {
+    "Code": 2031,
+    "MessageEN": "Setting details updated successfully.",
+    "MessageCN": "设置详细信息已成功更新。"
+  },
+  {
+    "Code": 2032,
+    "MessageEN": "Upline updated successfully.",
+    "MessageCN": "上线更新成功。"
+  },
+  {
+    "Code": 2033,
+    "MessageEN": "Get Tickets Successfully.",
+    "MessageCN": "成功获得门票。"
+  },
+  {
+    "Code": 2034,
+    "MessageEN": "Trasfer Credit Successfully.",
+    "MessageCN": "成功转移金额。"
+  },
+  {
+    "Code": 2035,
+    "MessageEN": "Turnover updated successfully.",
+    "MessageCN": "周转金额更新成功。"
+  },
+  {
+    "Code": 2036,
+    "MessageEN": "All User Game Wallet Amount Updated Successfully.",
+    "MessageCN": "所有用户游戏钱包数量已成功更新。"
+  },
+  {
+    "Code": 2037,
+    "MessageEN": "All User Game Wallet Amount Recollected Successfully.",
+    "MessageCN": "已成功收回所有用户游戏钱包的金额。"
+  },
+  {
+    "Code": 2038,
+    "MessageEN": "Annoucement deleted successfully.",
+    "MessageCN": "公告已成功删除。"
+  },
+  {
+    "Code": 2039,
+    "MessageEN": "Your account has been successfully registered, but the game account has yet to be processed.",
+    "MessageCN": "恭喜您的帐户已成功注册，但游戏账户还有待处理。"
+  },
+  {
+    "Code": 2040,
+    "MessageEN": "All User Game Register check done and successfully.",
+    "MessageCN": "游戏账户检查完毕。"
+  },
+  {
+    "Code": 2041,
+    "MessageEN": "Edit Cash Wallet Successfully.",
+    "MessageCN": "成功编辑现金钱包。"
+  }
+]
